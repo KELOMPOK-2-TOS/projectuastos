@@ -16,4 +16,4 @@
         <div class="text-center p-3 bg-secondary text-white">
             Copyright © 2025 KELOMPOK-2-TOS
         </div>
-    </footer>
+</footer>
